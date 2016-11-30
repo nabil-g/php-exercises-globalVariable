@@ -1,0 +1,14 @@
+/*CSS perso*/
+
+#maDiv{
+  width: 60%;
+  padding: 20px;
+}
+
+#monForm{
+  width: 50%;
+}
+
+input{
+  margin: 5px 0;
+}
